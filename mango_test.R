@@ -194,7 +194,7 @@ summary.myClass <- function(x){
                       Size = length(x))
   
   
-  return(result_list)
+  return(results)
 }
 
 # Check that the new method is now an S3 method
